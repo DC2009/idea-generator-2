@@ -9,3 +9,6 @@ vault/
 .obsidian/
 # Demo video work files (large; not for the repo)
 demo/
+# Environment variables containing sensitive information
+.env
+
